@@ -6,7 +6,7 @@ package rocks.zipcodewilmington.tictactoe;
 public class Board {
     public Board(Character[][] matrix) {
     }
-
+       
     public Boolean isInFavorOfX() {
         return null;
     }
